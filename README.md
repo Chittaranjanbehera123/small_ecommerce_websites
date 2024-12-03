@@ -6,9 +6,7 @@
 ### Customer Homepage
 ![homepage snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/customerhomepage.png?raw=true)
 ### Cart
-![cart snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/cart.png?raw=true)
-### Track Orders
-![orders snap](https://github.com/sumitkumar1503/ecommerce/blob/master/static/screenshots/orderspage.png?raw=true)
+https://github.com/Chittaranjanbehera123/small_ecommerce_websites?tab=readme-ov-file
 ---
 ## FUNCTIONS
 ## Customer
@@ -83,11 +81,3 @@ https://myaccount.google.com/lesssecureapps
 
 ## Disclaimer
 This project is developed for demo purpose and it's not supposed to be used in real application.
-
-## Contributor
-- [Raxa](https://github.com/raxa217)
-
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
